@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @nolanchaves and I am a student in my second year at Conestoga College
-- 👀 I’m interested in learning more of C# and Java
-- 🎓 Languages I've had experience with are C#, HTML, CSS, SQL, JavaScript, and a little JAVA
-- 🌱 I’m currently learning Programming Mobile Applications, Small Business Solutions, JAVA Web Technologies, Programming: Software Quality Assurance, Technology Infrastructure: Network Operating Systems, Systems Development: Computer Security
+- 👋 Hi, I’m @nolanchaves and I am a student in my third year at Conestoga College
+- 👀 I’m interested in learning more about C#, Java, and Kotlin
+- 🎓 Languages I've had experience with are C#, HTML, CSS, SQL, JavaScript, TypeScript, and JAVA
 - 💞️ I’m looking to collaborate on really any projects that will expand what I have already learned
 - 📫 How to reach me: nolanchaves26@gmail.com or nchaves6736@conestogac.on.ca
